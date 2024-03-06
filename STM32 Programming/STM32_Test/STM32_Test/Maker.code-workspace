@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"name": "STM32_Test",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
